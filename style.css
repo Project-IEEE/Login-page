@@ -1,0 +1,72 @@
+.container{
+    
+    height:98vh;
+    margin:0px;
+    padding: 0px;
+}
+.second{
+    display: flex;
+}
+.image img{
+    width:80%;
+    height:100%;
+    position: relative;
+    left:4em;
+    top:2em;
+
+}
+.icon img{
+    width: 25%;
+    height:vh;
+    position:relative;
+    left:4em;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    margin:5em;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    margin:
+}
+/* .container {
+    padding: 16px;
+} */
+
+/* Set a style for all buttons */
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 8px;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
+}
+.input_email{
+    display: grid;
+    gap: 17px;
+}
+.id{
+    width: 99%;
+    height: 80%;
+    border-radius: 8px;
+    text-align: center;
+
+}
+.label{
+    
+    font-weight: bolder;
+    font-size: 21px;
+}
+.h1{
+    text-align: center;
+}
